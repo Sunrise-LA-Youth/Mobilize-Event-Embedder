@@ -1,5 +1,17 @@
 {
+   "name": "Sunrise-LA-Youth/Mobilize-Event-Embedder",
+   "description": "Allows Mobilize America event feeds and details to be embedded on the SLAY website",
    "require": {
       "guzzlehttp/guzzle": "^7.0"
-   }
+   },
+   "authors": [
+      {
+         "name": "Ozzy Simpson",
+         "email": "ozzy@ozzysimpson.com",
+         "homepage": "https://www.ozzysimpson.com",
+         "role": "Developer"
+      }
+   ],
+   "license": "MIT",
+   "homepage": "https://www.sunriseyouth.la"
 }
