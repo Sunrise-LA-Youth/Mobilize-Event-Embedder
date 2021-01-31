@@ -1,5 +1,5 @@
 {
-   "name": "Sunrise-LA-Youth/Mobilize-Event-Embedder",
+   "name": "sunrise-la-youth/mobilize-event-embedder",
    "description": "Allows Mobilize America event feeds and details to be embedded on the SLAY website",
    "require": {
       "guzzlehttp/guzzle": "^7.0"
